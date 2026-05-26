@@ -1,0 +1,26 @@
+{
+  "categories": [
+    {"id": "lavash", "name": "🫓 Lavashlar", "emoji": "🫓"},
+    {"id": "hotdog", "name": "🌭 Hot-doglar", "emoji": "🌭"},
+    {"id": "burger", "name": "🍔 Burgerlar", "emoji": "🍔"},
+    {"id": "drinks", "name": "🥤 Ichimliklar", "emoji": "🥤"},
+    {"id": "extras", "name": "🍟 Qo'shimchalar", "emoji": "🍟"}
+  ],
+  "items": [
+    {"id": 1, "name": "Klassik Lavash", "price": 18000, "category": "lavash", "emoji": "🫓", "description": "Tovuq, sabzavot, sous bilan"},
+    {"id": 2, "name": "Maxsus Lavash", "price": 22000, "category": "lavash", "emoji": "🫓", "description": "Mol go'shti, pishloq, sabzavot, maxsus sous"},
+    {"id": 3, "name": "Vegetarian Lavash", "price": 15000, "category": "lavash", "emoji": "🥗", "description": "Faqat sabzavot va sous bilan"},
+    {"id": 4, "name": "Tuna Lavash", "price": 20000, "category": "lavash", "emoji": "🐟", "description": "Tuna baliq, sabzavot, limon sous"},
+    {"id": 5, "name": "Shashlyk Lavash", "price": 25000, "category": "lavash", "emoji": "🍢", "description": "Qo'y go'shti shashlyk, sabzavot, sous"},
+    {"id": 6, "name": "Klassik Hot-dog", "price": "12000", "category": "hotdog", "emoji": "🌭", "description": "Sosiska, ketchup, xantal"},
+    {"id": 7, "name": "Cheese Hot-dog", "price": 14000, "category": "hotdog", "emoji": "🧀", "description": "Sosiska, eritilgan pishloq, sous"},
+    {"id": 8, "name": "Lavash Burger", "price": 20000, "category": "burger", "emoji": "🍔", "description": "Mol go'shti kotlet, sabzavot, sous"},
+    {"id": 9, "name": "Chicken Burger", "price": 18000, "category": "burger", "emoji": "🍗", "description": "Tovuq filesi, salat, pomidor, sous"},
+    {"id": 10, "name": "Coca-Cola 0.5L", "price": 7000, "category": "drinks", "emoji": "🥤", "description": "Sovuq Coca-Cola"},
+    {"id": 11, "name": "Pepsi 0.5L", "price": 7000, "category": "drinks", "emoji": "🥤", "description": "Sovuq Pepsi"},
+    {"id": 12, "name": "Limonад", "price": 8000, "category": "drinks", "emoji": "🍋", "description": "Tabiiy limon sharbati"},
+    {"id": 13, "name": "Choy", "price": 5000, "category": "drinks", "emoji": "☕", "description": "Issiq qora choy"},
+    {"id": 14, "name": "Qovurilgan kartoshka", "price": 10000, "category": "extras", "emoji": "🍟", "description": "Crispy kartoshka sous bilan"},
+    {"id": 15, "name": "Coleslaw salat", "price": 8000, "category": "extras", "emoji": "🥗", "description": "Karam salat, mayonez sous"}
+  ]
+}

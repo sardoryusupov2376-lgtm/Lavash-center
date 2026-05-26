@@ -1,0 +1,35 @@
+[
+  {
+    "user_id": 7743062528,
+    "username": "yusupov_web1",
+    "full_name": "Yusupov",
+    "items": {
+      "12": 1
+    },
+    "total": 8000,
+    "delivery_type": "deliver",
+    "location": null,
+    "phone": "998992722376",
+    "status": "cooking",
+    "created_at": "26.05.2026 14:17",
+    "id": 1
+  },
+  {
+    "user_id": 7743062528,
+    "username": "yusupov_web1",
+    "full_name": "Yusupov",
+    "items": {
+      "6": 1
+    },
+    "total": 12000,
+    "delivery_type": "deliver",
+    "location": {
+      "lat": 41.548346,
+      "lon": 61.027849
+    },
+    "phone": "998992722376",
+    "status": "pending",
+    "created_at": "26.05.2026 14:51",
+    "id": 2
+  }
+]
